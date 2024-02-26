@@ -1,5 +1,5 @@
-Its an MyReads app project
-use commands 
-npm install 
-npm start
-To start the project. 
+-Its a MyRead app project
+-use commands 
+-npm install 
+-npm start
+-To start the project. 
